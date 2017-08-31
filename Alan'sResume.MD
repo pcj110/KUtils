@@ -14,7 +14,7 @@
  - 赵文贇/男/1993 
  - 专科/甘肃工业职业技术学院计算机系 
  - 工作年限：4年
- - 技术博客:[我的CSDN](http://my.csdn.net/)
+ - 技术博客:[我的CSDN](http://blog.csdn.net/insanestone)
  - GitHub：https://github.com/devzwy
 
  - 期望职位：Android高级程序员
@@ -29,7 +29,7 @@
 
 ### 川高掌上通项目  
 
-该项目由我独立完成，层碰到设备在android7.0设备上安装闪退的问题，后来用了大约一上午的时间翻阅相关博客、查阅百度、google等，发现AndroidManifest中配置的相机和蒲公英的provider-authorities名称重复了。改之，兴奋。
+该项目由我独立完成，发现app会在android7.0设备上安装闪退，后来用了大约一上午的时间翻阅相关博客、查阅百度、google等，发现AndroidManifest中配置的相机和蒲公英的provider-authorities名称重复了。改之，兴奋。
 
 ### 高速公路执法项目 
 
@@ -37,14 +37,14 @@
 
 ### 其他项目
 
-#### [新闻客户端](https://github.com/devzwy/NewsClient)
+#### [仿内涵段子](https://github.com/devzwy/NeiHanDuanZiTV)
 
 开源项目，一直在完善。
  
 ## 西安从新网络科技有限公司 （ 2016年10月 ~ 2017年05月 ）
 
 ### 爱上工作项目
-担任项目负责人，带领技术团队完成对“爱上工作”app的一期开发任务，在项目开发过程中的前后端数据安全交互方面遇到了比较困难的问题，因为软件涉及支付环节，安全问题应当首要考虑，最后选定支付宝使用的安全加密方案，采用RSA不对称加密方式。
+担任项目负责人，带领技术团队完成对“爱上工作”app的一期开发任务，在项目开发过程中的前后端数据安全交互方面遇到了比较棘手的问题，因为软件涉及支付环节，安全问题应当首要考虑，最后选定支付宝使用的安全加密方案，采用RSA不对称加密方式。
 
 ## 上海芯富信息科技有限公司 （2014年03月 － 2016年07月 ）
 
@@ -80,7 +80,7 @@
 ## 开源项目
 
  - [KUtils](https://github.com/devzwy/KUtils):整合android常用第三方库、对第三方框架进行二次封装，更方便使用
- - [新闻客户端](https://github.com/devzwy/NewsClient):新闻客户端，采用MVVM架构开发，代码开源，毕设可用
+ - [仿内涵段子](https://github.com/devzwy/NeiHanDuanZiTV):仿内涵段子，采用MVP架构开发，代码开源，毕设可用
 
 ## 技术文章
 
