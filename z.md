@@ -107,15 +107,19 @@
 - [x] Timber  
 - [x] LeakCanary  
 - [x] RTSP 、RTMP、流媒体开发
-#### Java后端框架(会简单的使用)  
+#### 前后端框架  
 - [x] Spring  
 - [x] SpringMVC  
 - [x] Struts  
+- [x] MVP
+- [x] MVC
 
 #### 前后端工具  
 - [x] Idea
 - [x] AndroidStudio
 - [x] Navicat
+- [x] PS 、Mark man
+
 #### 数据库相关  
 
 - [x] MySQL
@@ -126,6 +130,7 @@
 
 #### 云和开放平台  
 - [x] 百度、高德开放平台
+- [x] 融云、环信即时通讯
 - [x] 微信应用开发
 - [x] QQ开放平台
 - [x] 支付宝开放平台
