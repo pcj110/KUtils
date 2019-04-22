@@ -8,6 +8,7 @@ README
 ### Author:赵文贇
 ### E-mail:dev_zwy@aliyun.com
 ****
+#### 停止维护，推荐一个好看实用的日志输出库：https://github.com/devzwy/XLog
 ```diff
 即将更新
 
